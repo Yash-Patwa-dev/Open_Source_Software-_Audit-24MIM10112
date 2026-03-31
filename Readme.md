@@ -10,7 +10,7 @@
 | Field | Details |
 |---|---|
 | **Student Name** | Yash Patwa |
-| **Registration Number** | [24MIM10112 |
+| **Registration Number** | 24MIM10112 |
 | **Slot** | E11 |
 | **Chosen Software** | Git (Version Control · GPL v2) |
 | **Date of Submission** | 29 03 2026 |
